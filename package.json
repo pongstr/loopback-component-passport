@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-passport",
+  "name": "loopback-component-passport-fork",
   "description": "LoopBack passport integration to support third party logins and account linking",
   "keywords": [
     "StrongLoop",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strongloop/loopback-component-passport.git"
+    "url": "git://github.com/pongstr/loopback-component-passport.git"
   },
   "dependencies": {
     "passport": "^0.2.1",
